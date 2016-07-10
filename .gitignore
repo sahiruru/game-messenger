@@ -1,0 +1,8 @@
+# build folder
+build/
+
+# Idea
+.idea/
+
+# Gradle
+.gradle/
